@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>Flowers name</h2>
+<ul>
+       <li>lily</li>
+       <li>lotus</li>
+       <li>hibiscus</li>
+       <li>jasmine</li>
+       <li>daffodil</li>
+       <li>rose</li>
+       <li>sunflower </li>
+       <li>marigold</li>
+</ul>
+<h2>Tourist place in kanyakumari</h2>
+<ol>
+        <li>Thiruvalluvar statue</li>
+        <li>Vattakottai fort</li>
+        <li>Sunset point</li>
+       <li>suchindram temple</li>
+       <li>Padmanabhapuram palace</li>
+       <li>Vivekanantha Rock memorial</li>
+</ol>
+<p>There are many tourists places in kanyakumari</p>
+</body>
+</html>
